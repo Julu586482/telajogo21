@@ -44,4 +44,24 @@ Agora vamos focar no estudo de como foi escrito o nosso CSS. (vejamos abaixo):
 ```
 
 Explicar o codigo no HTML
+<!DOCTYPE html> - Mostra o tipo de documento usado, sendo esse o HTML.
+<html lang="en"> - Mostra a linguagem utilizada no HTML.
+<head>- Cabeça do sistema.
+    <meta charset="UTF-8"> - Define o conjunto para ser utilizado na exibição do site.
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> - Define um espaçamento e a renderização que tera para ocupar a tela não importando qual despositivo.
+    <title>Document</title>
+    <link rel="stylesheet" href="jogo21style.css">
+</head>
+<body>
+    <div class ="mesa">
+        <div class="robot">
+        </div>
+        <div class="player">
+        </div>
+        <div class="baralho">
+        </div>
+    </div>
+</body>
+</html>
+
 Explicar o codigo no CSS
