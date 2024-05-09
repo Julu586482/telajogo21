@@ -42,3 +42,6 @@ Agora vamos focar no estudo de como foi escrito o nosso CSS. (vejamos abaixo):
     height:80px;
     background-color:yellow;}   
 ```
+
+Explicar o codigo no HTML
+Explicar o codigo no CSS
