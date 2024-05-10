@@ -65,9 +65,9 @@ Explicação do codigo HTML
 </html> - final do sistema.
 ```
 Explicação do codigo CSS
-```css
+```html
 .mesa{ - fazendo alteração na div.
-    position: fixed; // posição fixa.
+    position: fixed; - posição fixa.
     width:900px; - colocando a Largura em pixels.
     height:600px; - colocando o Comprimento em pixels.
     background-color: green; - botando a cor.
