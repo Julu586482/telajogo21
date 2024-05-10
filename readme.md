@@ -42,8 +42,8 @@ Agora vamos focar no estudo de como foi escrito o nosso CSS. (vejamos abaixo):
     height:80px;
     background-color:yellow;}   
 ```
-```css
 Explicar o codigo no HTML
+```html
 <!DOCTYPE html> - Mostra o tipo de documento usado, sendo esse o HTML.
 <html lang="en"> - Mostra a linguagem utilizada no HTML.
 <head>- Cabeça do sistema.
