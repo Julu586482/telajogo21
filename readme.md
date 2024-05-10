@@ -49,8 +49,8 @@ Explicar o codigo no HTML
 <head>- Cabeça do sistema.
     <meta charset="UTF-8"> - Define o conjunto para ser utilizado na exibição do site.
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> - Define um espaçamento e a renderização que tera para ocupar a tela não importando qual despositivo.
-    <title>Document</title>
-    <link rel="stylesheet" href="jogo21style.css">
+    <title>Document</title> - O titulo que sera mostrado no site.
+    <link rel="stylesheet" href="jogo21style.css"> - ligação o codigo CSS com o codigo do HTML.
 </head>
 <body>
     <div class ="mesa">
