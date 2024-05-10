@@ -51,17 +51,17 @@ Explicar o codigo no HTML
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> - Define um espaçamento e a renderização que tera para ocupar a tela não importando qual despositivo.
     <title>Document</title> - O titulo que sera mostrado no site.
     <link rel="stylesheet" href="jogo21style.css"> - ligação o codigo CSS com o codigo do HTML.
-</head>
-<body>
-    <div class ="mesa">
-        <div class="robot">
-        </div>
-        <div class="player">
-        </div>
-        <div class="baralho">
-        </div>
-    </div>
-</body>
-</html>
+</head> - fim da cabeça do sistema.
+<body> - Corpo do sistema.
+    <div class ="mesa"> - fazendo divisões.
+        <div class="robot"> - divisão do robo.
+        </div> - fechamento da divisão.
+        <div class="player"> - divisão do jogador.
+        </div> - fechamento da divisão.
+        <div class="baralho"> - divisão do baralho.
+        </div> - fechamento da divisão.
+    </div> - fechamento da divisão mesa.
+</body> - Fim do corpo do sistema.
+</html> - final do sistema.
 ```
 Explicar o codigo no CSS
