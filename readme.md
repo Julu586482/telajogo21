@@ -42,7 +42,7 @@ Agora vamos focar no estudo de como foi escrito o nosso CSS. (vejamos abaixo):
     height:80px;
     background-color:yellow;}   
 ```
-Explicar o codigo no HTML
+Explicação do codigo HTML
 ```html
 <!DOCTYPE html> - Mostra o tipo de documento usado, sendo esse o HTML.
 <html lang="en"> - Mostra a linguagem utilizada no HTML.
@@ -64,4 +64,34 @@ Explicar o codigo no HTML
 </body> - Fim do corpo do sistema.
 </html> - final do sistema.
 ```
-Explicar o codigo no CSS
+Explicação do codigo CSS
+```css
+.mesa{ - fazendo alteração na div.
+    position: fixed; - posição fixa.
+    width:900px; - colocando a Largura em pixels.
+    height:600px; - colocando o Comprimento em pixels.
+    background-color: green; - botando a cor.
+      } - botando a cor.
+.robot{ - fazendo alteração na div criada.
+   position: relative; - posição relativa.
+   top:5px; - distância do topo da tela.
+   left:15px; - distância da para a esquerda da tela.
+   width:160px; - colocando a Largura em pixels.
+   height:60px; - colocando o Comprimento em pixels.
+   background-color: black; - botando a cor.
+ } - botando a cor.
+.player{ - fazendo alteração na div.
+    position: relative; - posição relativa.
+    top:390px; - distância do topo da tela.
+    left:15px; - distância da para a esquerda da tela.
+    width:160px; - colocando a Largura em pixels.
+    height:60px; - colocando o Comprimento em pixels.
+    background-color: black; } - botando a cor.   
+.baralho{ - fazendo alteração na div.
+    position: relative; - posição relativa.
+    top:200px; - distância do topo da tela.
+    left:315px; - distância da para a esquerda da tela.
+    width:60px; - colocando a Largura em pixels.
+    height:80px; - colocando o Comprimento em pixels.
+    background-color:yellow;} - botando a cor.     
+```
